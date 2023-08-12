@@ -1,0 +1,15 @@
+.dri-btn {
+    background-color: #4B49AC;
+    border: 0px;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.dri-form {
+    margin-bottom: 240px;
+}
