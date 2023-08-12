@@ -1,0 +1,5 @@
+# https---github.com-sorinatreitel-Hotel-Website-PHP-for-optimizing-room-bookings
+The project involves a hotel seeking to expand its online presence and attract more customers through the creation of a website. The website will facilitate the booking process, requiring users to log in. Visitors can explore the available facilities, room features, and other pertinent information about the hotel.After a reservation is made, the client will receive an email confirming the booking.Users have the option to provide a review for the hotel room.
+This application is built on several key technologies: the PHP programming language, utilizing the Laravel framework; a MariaDB database; and the Stripe payment API for processing payments. On the front-end, I employed HTML, CSS, JavaScript, and Bootstrap.
+The administrator's role encompasses room management, reservation oversight, facility management, handling special periods, generating PDFs for reservations, and managing database operations.
+I'm proud to declare that this project represents the culmination of my dedicated academic journey, presented as my bachelor's thesis.
